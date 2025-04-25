@@ -7,7 +7,7 @@ Este projeto explora o uso de redes neurais densas simples (fully connected) par
 ## 🎯 Objetivo
 
 Comparar o desempenho de modelos de regressão linear com redes neurais artificiais em problemas de predição numérica.  
-O modelo é treinado em dados sintéticos com distribuição linear, buscando prever a variável contínua `y` com base em `x`.
+O modelo é treinado em dados com distribuição linear, buscando prever a variável contínua `y` com base em `x`.
 
 ---
 
